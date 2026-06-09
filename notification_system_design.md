@@ -11,7 +11,7 @@ optional filters like type and isRead, supports pagination
 
 **PATCH /api/notifications/:id/read** — mark one notification as read
 
-**PATCH /api/students/:studentId/notifications/read-all** — mark all as read
+**PATCH /api/students/:studentId/notifications/read-all** — mark all read
 
 **GET /api/students/:studentId/notifications/unread-count** — get unread count
 
